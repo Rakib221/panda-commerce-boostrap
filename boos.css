@@ -1,0 +1,22 @@
+.good-card {
+    border: 0;
+}
+
+.good-card-footer {
+    border: none;
+    background-color: white;
+}
+
+.item img {
+    width: 100px;
+}
+
+.carousel-background .carousel-item {
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+
+.background-color {
+    background-color: #fceae8;
+}
+
