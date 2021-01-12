@@ -20,3 +20,13 @@
     background-color: #fceae8;
 }
 
+.position {
+	position: fixed;
+	top: 0;
+	z-index: 1000;
+
+}
+
+.nav-margin {
+	margin-bottom: 80px;
+}
